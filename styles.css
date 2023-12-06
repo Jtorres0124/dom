@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+main {
+    margin: 20px;
+}
+
+h2, li, p {
+    color: #333;
+}
